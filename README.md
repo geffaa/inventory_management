@@ -5,9 +5,9 @@
 
 ## Quick Installation
 
-    git clone https://github.com/ekramasif/Inventory_Management_System.git
+    git clone https://github.com/geffaa/inventory_management.git
 
-    cd Inventory_Management_System
+    cd inventory_management
     
 ### Composer
 
@@ -19,7 +19,7 @@
     cp .env.example .env
  
     
- ### For Migration table in database [Create database name as ```IMS```]
+ ### For Migration table in database [Create database name as ```inventory_management```]
  
     php artisan migrate
     
@@ -27,8 +27,3 @@
 
     php artisan serve
 
-## Our valuable team👩‍💻👨‍💻 :
-
-<p align="center">
-  <img src="https://contributors-img.web.app/image?repo=ekramasif/Inventory_Management_System" />
-</p>
